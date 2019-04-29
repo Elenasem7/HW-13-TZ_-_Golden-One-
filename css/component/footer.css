@@ -1,0 +1,31 @@
+.uk-footer-flex {
+  height: 84px;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #d8d5d5;
+}
+
+.text-footer {
+  color: #555555;
+  font-family: "Arial MT";
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.social-icons-footer {
+  padding-left: 15%;
+}
+
+.uk-back {
+  width: 41px;
+  height: 40px;
+  background-color: #222222;
+  border-radius: 50%;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 10px;
+}
+
